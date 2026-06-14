@@ -11,7 +11,7 @@ RailMind is an intelligent, real-time operations dashboard designed for the Rail
 
 | System View | Description | Screenshot Placeholder |
 | :--- | :--- | :--- |
-| **Main Dashboard** | Clean light-themed 3-column layout featuring the interactive map, control panel, and storytelling panel. | `<!-- Add dashboard.png here -->` ![Main Dashboard Mockup](https://raw.githubusercontent.com/SagarGidwani1/RailMind/main/screenshots/dashboard_placeholder.png) |
+| **Main Dashboard** | Clean light-themed 3-column layout featuring the interactive map, control panel, and storytelling panel. | <img width="1918" height="896" alt="Screenshot 2026-06-14 142551" src="https://github.com/user-attachments/assets/40e8c2cc-3b22-44e3-bd60-412b372a7609" /> ![Main Dashboard Mockup]|
 | **Interactive Map & Flow** | Real-time train pill positions along the Mumbai-Pune corridor with D3-animated cascade lines. | `<!-- Add map.png here -->` ![Interactive Map Mockup](https://raw.githubusercontent.com/SagarGidwani1/RailMind/main/screenshots/map_placeholder.png) |
 | **Storytelling Narrative** | Multi-step timeline displaying how one train's delay cascades to downstream trains. | `<!-- Add storytelling.png here -->` ![Storytelling Mockup](https://raw.githubusercontent.com/SagarGidwani1/RailMind/main/screenshots/story_placeholder.png) |
 
