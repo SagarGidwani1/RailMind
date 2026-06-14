@@ -6,8 +6,7 @@ import AgentPanel from './components/AgentPanel';
 import TrainTable from './components/TrainTable';
 import './styles/skeuomorphic.css';
 
-const API_BASE = 'http://localhost:8000';
-
+const API_URL = import.meta.env.VITE_API_URL || "https://railmind-backend-f3op.onrender.com";
 /**
  * RailMind — AI-Powered Indian Railways Cascade Delay Prediction & Resolution
  * Clean storytelling dashboard layout
