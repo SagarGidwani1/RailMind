@@ -1,6 +1,6 @@
 # 🚂 RailMind — AI-Powered Indian Railways Cascade Delay Prediction & Resolution System
 
-RailMind is an intelligent, real-time operations dashboard designed for the Mumbai-Pune corridor. By combining **network graph analysis (NetworkX)** with **generative AI (Anthropic Claude)**, it models how delays propagate through shared tracks and platforms, translating raw delay data into human-style storytelling logs and actionable operational recommendations.
+RailMind is an intelligent, real-time operations dashboard designed for the Railway. By combining **network graph analysis (NetworkX)** with **generative AI (Anthropic Claude)**, it models how delays propagate through shared tracks and platforms, translating raw delay data into human-style storytelling logs and actionable operational recommendations.
 
 ---
 
