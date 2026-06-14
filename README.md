@@ -3,6 +3,11 @@
 RailMind is an intelligent, real-time operations dashboard designed for the Railway. By combining **network graph analysis (NetworkX)** with **generative AI (Anthropic Claude)**, it models how delays propagate through shared tracks and platforms, translating raw delay data into human-style storytelling logs and actionable operational recommendations.
 
 ---
+## 🚀 Live Production App
+The complete frontend dashboard (React/Vite) connected to the live FastAPI backend is fully deployed and accessible here:
+
+👉 **[Launch RailMind Dashboard](https://rail-mind-rho.vercel.app)**
+---
 ## 🎥 Live Simulation Demo
 
 [![Try Live Demo](https://img.shields.io/badge/Play_Demo-Interactive_Simulation-0078D4?style=for-the-badge&logo=html5&logoColor=white)](https://SagarGidwani1.github.io/RailMind/Demo/demo.html)
